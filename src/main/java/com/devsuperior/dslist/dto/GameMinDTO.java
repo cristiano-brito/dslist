@@ -1,7 +1,5 @@
 package com.devsuperior.dslist.dto;
 
-import java.text.CollationElementIterator;
-
 import com.devsuperior.dslist.entities.Game;
 
 public class GameMinDTO {
